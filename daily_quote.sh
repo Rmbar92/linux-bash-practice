@@ -7,6 +7,7 @@ quotes=(
 	"Every expert was once a beginner."
 	"Take the risk or lose the chance."
 	"Small steps every day."
+	"Keep using Linux."
 )
 
 # Pick a random quote
