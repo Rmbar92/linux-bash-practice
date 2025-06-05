@@ -8,6 +8,7 @@ quotes=(
 	"Take the risk or lose the chance."
 	"Small steps every day."
 	"Keep using Linux."
+	"No really, keep using Linux"
 	)
 
 # Pick a random quote
